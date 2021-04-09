@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationMonitorExample</string>
+    <string name="server_name">MyNotificationMonitor</string>
+</resources>
